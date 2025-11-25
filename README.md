@@ -160,13 +160,13 @@ Medical Student @ Tanta University (Batch 68)
 
 
 
-Vice Moderator, Computer Team @ SPOT
+Moderator, Computer Team @ SPOT
 
 
 
 
 
-Vice Moderator, HR Team @ SPOT
+Moderator, HR Team @ SPOT
 
 Made with ❤️ for SPOT
 
