@@ -153,7 +153,7 @@
 
 *Passionate about merging Medicine with Technology.*
 
-[Facebook]((https://www.facebook.com/mohamedibrahim.elabbasi)) • [GitHub](https://github.com/melabbasi)
+[Facebook](https://www.facebook.com/mohamedibrahim.elabbasi)) • [GitHub](https://github.com/melabbasi)
 
 Made with ❤️ for **SPOT Family**
 
