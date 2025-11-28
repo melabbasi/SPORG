@@ -4,7 +4,9 @@
 
 # 🚀 SPORG - SPOT Organization App
 
-**The Ultimate "Super App" for Skilled Physicians of Tanta (SPOT).** *Attendance Tracking • Gamified Leaderboards • Digital Identity • Analytics*
+**The Ultimate "Super App" for Skilled Physicians of Tanta (SPOT).**
+
+*Attendance Tracking • Gamified Leaderboards • Digital Identity • Analytics*
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)](https://dart.dev/)
